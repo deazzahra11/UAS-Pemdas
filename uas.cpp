@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>  
+#include <math.h>  
 
 using namespace std;
 
@@ -8,6 +8,7 @@ int main () {
 cout << "Nama : Dea Amelia Azzahra" << endl;
 cout << "Nrp  : 152021185" << endl;
 cout << "UTS PEMROGRAMAN DASAR" << endl;
+cout << "=======================================" << endl;
 
 float n,x[100],y[100],xy,x2,sigmax,sigmay,r,koef,pow;
 
